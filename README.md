@@ -11,7 +11,7 @@ I'm George, and I'm just getting started with coding! 🚀
 🔧 What I'm Learning
 - I am a noob so anything and everything
 - First things first, learning how to use Github
-...
+	- Downloaded Git Desktop, making a change to commit
 
 Will be updating the list of what I learn as I go, first of all I also need to learn what I need to learn
 
